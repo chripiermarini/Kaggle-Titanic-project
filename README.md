@@ -1,2 +1,3 @@
 # Titanic
-Kaggle titanic project
+Personal take to the Titanic Kaggle project.
+
